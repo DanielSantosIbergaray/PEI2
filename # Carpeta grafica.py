@@ -1,0 +1,2 @@
+# Carpeta grafica
+print("print")
